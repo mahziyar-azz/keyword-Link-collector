@@ -7,7 +7,7 @@ Keyword Link Collector is a lightweight, portable Windows app that allows you to
 
 ## Features  
 - **Internet Connection Status**: Visual indicator (green for connected, red for disconnected) to check if you're online.  
-![alt text](Connection status.png)
+[![alt text](Connection status.png)](https://github.com/mahziyar-azz/keyword-Link-collector/blob/main/Connection%20status.png)
 - **Effortless Link Collection**: Enter a webpage URL and a keyword to quickly extract relevant links.  
 - **Flexible Use Cases**: Suitable for downloading software, movies, games, packages, and much more.  
 
