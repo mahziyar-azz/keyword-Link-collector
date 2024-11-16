@@ -32,6 +32,9 @@ Keyword Link Collector is a portable, open-source Windows app.
    - Enter the webpage URL with the download links.  
    - Use a common keyword, e.g., "rar".  
    - Collect all the part links for your download manager!  
+## Platform Availability
+
+We currently only have a Windows version, but if there is demand, the .NET version will also be developed so that it can be used for all platforms.
 
 ## Contributing  
 Contributions are welcome! Developers are free to:  
