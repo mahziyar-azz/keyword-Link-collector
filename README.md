@@ -16,7 +16,8 @@ Keyword Link Collector is a lightweight, portable Windows app that allows you to
 ## Installation  
 Keyword Link Collector is a portable, open-source Windows app.  
 - No installation required! Just download, run, and use.  
-- Prerequisite: Ensure **.NET Framework 4.7.2** (or later) is installed on your system.  
+- Prerequisite: Ensure [**.NET Framework 4.7.2**](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+ (or later) is installed on your system.  
 
 ## Usage  
 1. **Check Internet Connection**:  
