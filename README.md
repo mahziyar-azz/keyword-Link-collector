@@ -1,7 +1,6 @@
 ## Installation  
 Keyword Link Collector is a portable, open-source Windows app.  
-- No installation required! Just download, run, and use.  
-- Prerequisite: Ensure **.NET Framework 4.7.2** (or later) is installed on your system.  
+- No installation required! Just download, run, and use.   
 - Prerequisite: Ensure [**.NET Framework 4.7.2**](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
  (or later) is installed on your system.  
 
@@ -10,6 +9,7 @@ Keyword Link Collector is a portable, open-source Windows app.
 - Look at the link symbol in the program's corner:  
 - **Green**: Connected to the Internet.  
 - **Red**: Not connected. Check your Internet and click the red symbol to refresh the status.  
+![Connection status](screenshot.png)
 2. **Collect Links**:  
 - Enter the webpage URL where the links are located in the **first field**.  
 - Enter a keyword (e.g., "rar", "part", "version 1.21") in the **second field**. Only one keyword is allowed.  
