@@ -277,7 +277,7 @@ namespace link_collector
             // Show the tooltip near the PictureBox
             statusToolTip.Show(" ↑ This icon shows the Internet connection status!\n" +
                 "Red means No Connection\n" +
-                "Green means You have Connection", pictureBox1, 0, pictureBox1.Height, 1000); // Tooltip lasts 1 seconds
+                "Green means You have Connection", pictureBox1, 0, pictureBox1.Height, 1000); // Tooltip lasts 3 seconds
         }
 
         private void Key_textBox_TextChanged(object sender, EventArgs e)

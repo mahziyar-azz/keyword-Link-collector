@@ -74,9 +74,9 @@
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(69, 144);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(96, 16);
+            this.label2.Size = new System.Drawing.Size(103, 16);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Collected link  :";
+            this.label2.Text = "Collected links  :";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // btnFetch
@@ -153,6 +153,7 @@
             this.Output_textBox.Location = new System.Drawing.Point(171, 144);
             this.Output_textBox.Multiline = true;
             this.Output_textBox.Name = "Output_textBox";
+            this.Output_textBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.Output_textBox.Size = new System.Drawing.Size(485, 294);
             this.Output_textBox.TabIndex = 10;
             this.Output_textBox.Text = "Your Collected Links Will Appear Here!";
