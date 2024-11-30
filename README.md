@@ -1,3 +1,13 @@
+Keyword Link Collector
+An app to find and collect web page links containing specific keywords!
+
+Description
+Keyword Link Collector is a lightweight, portable Windows app that allows you to extract and collect links from a webpage that contain specific keywords. It's perfect for tasks like downloading multiple file parts, finding news feeds, or collecting links for movies, games, and more.
+
+Features
+Internet Connection Status: Visual indicator (green for connected, red for disconnected) to check if you're online.
+Effortless Link Collection: Enter a webpage URL and a keyword to quickly extract relevant links.
+Flexible Use Cases: Suitable for downloading software, movies, games, packages, and much more.
 ## Installation  
 Keyword Link Collector is a portable, open-source Windows app.  
 - No installation required! Just download, run, and use.   
