@@ -91,6 +91,7 @@
     <Resource Include="Resources\red_link.png" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="HtmlAgilityPack.dll" />
     <Content Include="link icon.ico" />
     <Resource Include="Resources\git.gif" />
   </ItemGroup>

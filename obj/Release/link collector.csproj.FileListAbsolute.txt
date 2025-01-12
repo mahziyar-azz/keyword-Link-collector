@@ -1,0 +1,15 @@
+C:\Users\Pc\source\repos\link collector\link collector\bin\Release\link collector.exe.config
+C:\Users\Pc\source\repos\link collector\link collector\bin\Release\link collector.exe
+C:\Users\Pc\source\repos\link collector\link collector\bin\Release\link collector.pdb
+C:\Users\Pc\source\repos\link collector\link collector\bin\Release\HtmlAgilityPack.dll
+C:\Users\Pc\source\repos\link collector\link collector\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Pc\source\repos\link collector\link collector\bin\Release\HtmlAgilityPack.xml
+C:\Users\Pc\source\repos\link collector\link collector\obj\Release\link collector.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\link collector\link collector\obj\Release\link collector.g.resources
+C:\Users\Pc\source\repos\link collector\link collector\obj\Release\link_collector.Form1.resources
+C:\Users\Pc\source\repos\link collector\link collector\obj\Release\link_collector.Properties.Resources.resources
+C:\Users\Pc\source\repos\link collector\link collector\obj\Release\link collector.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\link collector\link collector\obj\Release\link collector.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\link collector\link collector\obj\Release\link col.07D72A1B.Up2Date
+C:\Users\Pc\source\repos\link collector\link collector\obj\Release\link collector.exe
+C:\Users\Pc\source\repos\link collector\link collector\obj\Release\link collector.pdb

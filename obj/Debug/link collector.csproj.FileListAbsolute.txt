@@ -9,7 +9,7 @@ C:\Users\Pc\source\repos\link collector\link collector\obj\Debug\link collector.
 C:\Users\Pc\source\repos\link collector\link collector\obj\Debug\link collector.exe
 C:\Users\Pc\source\repos\link collector\link collector\obj\Debug\link collector.pdb
 C:\Users\Pc\source\repos\link collector\link collector\bin\Debug\HtmlAgilityPack.dll
-C:\Users\Pc\source\repos\link collector\link collector\bin\Debug\HtmlAgilityPack.pdb
-C:\Users\Pc\source\repos\link collector\link collector\bin\Debug\HtmlAgilityPack.xml
 C:\Users\Pc\source\repos\link collector\link collector\obj\Debug\link col.07D72A1B.Up2Date
 C:\Users\Pc\source\repos\link collector\link collector\obj\Debug\link collector.g.resources
+C:\Users\Pc\source\repos\link collector\link collector\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Pc\source\repos\link collector\link collector\bin\Debug\HtmlAgilityPack.xml
